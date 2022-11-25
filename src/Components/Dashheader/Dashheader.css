@@ -1,0 +1,30 @@
+.dash-header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 50px;
+    /* border-bottom: 1px solid gainsboro */
+}
+
+.header-right{
+    display: flex;
+    justify-content: start;
+    
+}
+
+.header-left{
+    display: flex;
+    justify-content: space-between;
+    width: 82%;
+}
+
+.search{
+    border-radius: 20px;
+    background-color: rgb(241 241 241);
+    border: none;
+}
+
+.three-dot{
+    color: black;
+}
+

@@ -1,0 +1,29 @@
+.edit-icon{
+    color: blue;
+}
+
+.x-icon{
+    color: red;
+}
+
+.pageno{
+    display: flex;
+    justify-content: end;
+}
+
+.page{
+    border: 0px;
+}
+
+.page-link{
+    border-radius: 35px;
+    border: none
+}
+
+.table-card-allcourse{
+    width: 70%;
+}
+
+.th-allcourse{
+    text-align: center;
+}

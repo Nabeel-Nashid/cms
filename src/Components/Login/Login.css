@@ -1,0 +1,55 @@
+.box{
+   
+    background-color: white;
+    border-radius: 10px;
+    
+}
+
+.l-card{
+    width: 25%;
+    height: 60%;
+    margin-top: 40px;
+}
+
+.sub-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h5-login{
+    color: rgb(0, 95, 154);
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.box-name{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.type-box{
+    border-radius: 5px;
+    border: 1px solid grey;
+    
+}
+
+.login-box{
+    margin-top: 20px;
+}
+
+.text{
+    margin-top: 20px;
+    text-align: center;
+}
+
+span a{
+    text-decoration: none;
+}
+
+footer{
+    font-size: 10px;
+    text-align: center;
+    padding-top: 50px;
+}

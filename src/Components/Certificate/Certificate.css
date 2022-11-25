@@ -1,0 +1,112 @@
+.c-main-heading{
+    text-align: center;
+    /* margin-top: 15%; */
+    color: #1a1a85;
+    font-family: fantasy;
+}
+
+.c-sub-heading{
+    text-align: center;
+    font-size: 20px;
+    color: #6c757d;
+    font-family: math;
+}
+
+.c-sub-heading-2{
+    text-align: center;
+    padding-top: 15%;
+    color: #1a1a85;
+    font-size: 20px;
+}
+
+.c-name{
+    text-align: center;
+    font-weight: 800;
+    font-family: serif;
+    letter-spacing: 2px;
+    color: black;
+}
+
+.c-name-1{
+    text-align: center;
+    font-weight: 800;
+    font-family: serif;
+    letter-spacing: 2px;
+    color: #1a1a85;
+    font-family: fantasy;
+
+}
+
+.c-para{
+    text-align: center;
+    font-size: 15px;
+    padding-top: 5%;
+}
+
+.c-para-2{
+    text-align: center;
+    font-size: 15px;
+}
+
+.c-ceo{
+    text-align: end;
+    padding-right: 5%;
+    padding-top: 20%;
+}
+
+.score{
+    margin-top: 40%;
+    text-align: center;
+    color: #00009b;
+    font-family: fantasy;
+}
+
+.c-para-3{
+    text-align: center;
+    font-size: x-large;
+    color: #212529;
+}
+
+.c-heading-web{
+    text-align: center;
+    font-family: initial;
+    color: #05056e;
+    margin-bottom: 10%;
+}
+
+.main-div{
+    margin-top: 15%;
+    display: flex;
+    justify-content: center;
+}
+
+.section-2{
+    margin-top: 50%;
+}
+
+
+.course-name-1{
+    margin-left: 20%;
+    /* margin-top: 10%; */
+    font-size: larger;
+}
+
+.course-name{
+    margin-left: 20%;
+    font-size: larger;
+
+}
+
+.star-div{
+    display: flex;
+}
+
+@media print{
+    #print{
+        display: none;
+    }
+}
+
+.btn-div{
+    align-items: center;
+}

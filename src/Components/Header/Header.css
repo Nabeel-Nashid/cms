@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #556EE6;
+}
+
+.header{
+    border-bottom: 1px solid white;
+    
+}
+
+.header .navbar-brand{
+    color: white;
+}
+
+.header a{
+    color: white;
+}

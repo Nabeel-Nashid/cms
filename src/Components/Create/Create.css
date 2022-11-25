@@ -1,0 +1,29 @@
+
+.form-text{
+    background-color: darkgray;
+}
+
+.form-label{
+    padding-top: 5px;
+    font-weight: bold;
+    color: grey;
+    font-size: 15px;
+}
+
+.form-back-button{
+    width: 100px;
+    margin-right: 10px;
+}
+
+.form-update-button{
+    width: 100px;
+}
+
+.button-main{
+    display: flex;
+    justify-content: end;
+}
+
+.table-card-create{
+    width: 70%;
+}

@@ -1,0 +1,29 @@
+.sidebar-main{
+    width: 20%;
+    height: 100vh;
+    padding: 10px;
+}
+
+.sidebar-top{
+    display: flex;
+}
+
+.sidebar-icon{
+    width: 25px;
+}
+
+.sidebar-bottom{
+    display: flex;
+    padding-top: 15px;
+}
+
+li{
+    list-style-type: none;
+    padding-top: 5px;
+    font-size: 11px;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
